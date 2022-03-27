@@ -164,10 +164,12 @@ strong {
   height: 20px;
 }
 .side-bar {
-  margin-top: 34px;
+  margin-top: 88px;
   background-color: #e5e5e5;
   width: 293px;
   padding: 25px 0px 25px 30px;
+  position: sticky;
+  top: 54px;
 }
 .profile {
   display: flex;
